@@ -1,4 +1,4 @@
-===> Reverse a String in array.
+// ===> Reverse a String in array.
 
 function reverse(str) {
   if (!str || str.length < 2) {
